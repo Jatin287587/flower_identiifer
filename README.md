@@ -5,7 +5,9 @@ This can predict the name of flowers
 It contains two files, train.py and predict.py.  
 train.py for training your network  
 predict.py for predicting flower  
-flower dataset will be uploaded if possible
+
+# Get data  
+https://drive.google.com/open?id=1LihLiKtRGuL-zxTD9N9qXq80vXezPV7w
 
 # Using predict.py
 You can simply run this file by adding a parameter --path path/to/your/image.jpg  
