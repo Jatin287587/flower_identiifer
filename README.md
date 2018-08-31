@@ -1,4 +1,4 @@
-# flower_identiifer
+# flower_identifer
 This can predict the name of flowers
 
 # What it contains
@@ -51,4 +51,4 @@ But you can add optional paramters to modify these values
 
 # Thanks for using
 I made this project to sharpen my skills.  
-Feel free to fork, I'll merge any good changes
+Feel free to modify, I'll merge any good changes
