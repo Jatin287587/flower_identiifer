@@ -57,7 +57,7 @@ dataloaders['train'] = torch.utils.data.DataLoader(image_datasets['train'], batc
 dataloaders['valid'] = torch.utils.data.DataLoader(image_datasets['valid'], batch_size=64, shuffle=True)
 dataloaders['test'] = torch.utils.data.DataLoader(image_datasets['test'], batch_size=64, shuffle=True)
 
-# TODO: Build and train your network
+# Building and training of network
 if arg.arch=='densenet':
     model= models.densenet121(pretrained=True)
     model_inp = 1024
