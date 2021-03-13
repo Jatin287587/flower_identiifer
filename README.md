@@ -1,5 +1,5 @@
 # Flower Identifer
-This can predict the name of flowers
+This can classify the name of flowers
 
 # What it contains
 It contains two files, train.py and predict.py.  
